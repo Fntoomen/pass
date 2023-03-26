@@ -1,4 +1,7 @@
-# Password generator.
+# PASS
+## Password generator.
 
-## Usage:
-### `./pass.py "number"`, eg. `./pass.py 96` - this generates 96 characters long password.
+# Usage:
+	python pass.py "number"
+# Example:
+	python pass.py 96
